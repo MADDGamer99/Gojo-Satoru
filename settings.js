@@ -7,15 +7,14 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-
 //Api Website\\
 global.APIs = {
-	zenz: 'https://koyeb.com',
+	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://koyeb.com': '2bes22kcrozipwwedoj4k761guolaod2vrnlkqg1i0hmv4ds5wf0ek1fybezplgt', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
